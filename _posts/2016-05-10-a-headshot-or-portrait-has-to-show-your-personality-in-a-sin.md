@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "A good headshot or portrait will show your personality and values in a single photograph. It's much more than a simple snap. "
-datePublished: '2016-05-10T03:44:14.440Z'
-dateModified: '2016-05-10T03:44:05.019Z'
+datePublished: '2016-05-10T05:28:13.130Z'
+dateModified: '2016-05-10T05:26:21.036Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-a-headshot-or-portrait-has-to-show-your-personality-in-a-sin.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: a-headshot-or-portrait-has-to-show-your-personality-in-a-sin/index.html
 _type: Article
 
@@ -36,4 +36,4 @@ This is a little more comprehensive than the Corporate Package and is ideal for 
 Personalised Portraits.  
 A package designed for you. Whether you're an individual or a couple, after an album or some fine wall art this package is for you.
 
-To enquire about one of these packages, or to design your own, please click the 'contact me' button at the top of the page, or alternately give me a call on 07 3193 8989\. I look forward to shooting you.
+To enquire about one of these packages, or to design your own, please visit www.danmccoll.com/portrait, or give me a call on 07 3193 8989\. I look forward to shooting you.
