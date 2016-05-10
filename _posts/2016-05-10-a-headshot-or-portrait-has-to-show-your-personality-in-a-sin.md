@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "A headshot or portrait has to show your personality in a single photograph. It's much more than a simple snap. There are no time limits on my sittings. I don’t rush you in and rush you out. It’s a personalised session tailored to your specific needs. I have a few basic packages that cover the basics and each one can be customised as necessary to get the perfect result for you, with an investment of as little as 250. All of these packages can be done at my East Brisbane Studio or at a location of your choosing. I regularly travel to Melbourne, Sydney and Brisbane for my clients, and travel anywhere in the world."
-datePublished: '2016-05-10T03:24:29.009Z'
-dateModified: '2016-05-10T03:23:37.806Z'
+description: "A good headshot or portrait will show your personality and values in a single photograph. It's much more than a simple snap. There are no time limits on my sittings. I don’t rush you in and rush you out. It’s a personalised session tailored specifically to you. I have a few packages that cover the basics and each one can be customised as necessary to get the perfect result for you, with an investment of as little as 350. All of these packages can be done at my East Brisbane Studio or at a location of your choosing. I regularly travel to Melbourne, Sydney and Brisbane for my clients, and travel anywhere in the world."
+datePublished: '2016-05-10T03:27:36.135Z'
+dateModified: '2016-05-10T03:26:52.687Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-a-headshot-or-portrait-has-to-show-your-personality-in-a-sin.md
 authors: []
 publisher:
   name: null
@@ -16,12 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-a-headshot-or-portrait-has-to-show-your-personality-in-a-sin.md
 url: a-headshot-or-portrait-has-to-show-your-personality-in-a-sin/index.html
 _type: Article
 
 ---
-A headshot or portrait has to show your personality in a single photograph. It's much more than a simple snap. There are no time limits on my sittings. I don't rush you in and rush you out. It's a personalised session tailored to your specific needs. I have a few basic packages that cover the basics and each one can be customised as necessary to get the perfect result for you, with an investment of as little as 250\. All of these packages can be done at my East Brisbane Studio or at a location of your choosing. I regularly travel to Melbourne, Sydney and Brisbane for my clients, and travel anywhere in the world.
+A good headshot or portrait will show your personality and values in a single photograph. It's much more than a simple snap. There are no time limits on my sittings. I don't rush you in and rush you out. It's a personalised session tailored specifically to you. I have a few packages that cover the basics and each one can be customised as necessary to get the perfect result for you, with an investment of as little as 350\. All of these packages can be done at my East Brisbane Studio or at a location of your choosing. I regularly travel to Melbourne, Sydney and Brisbane for my clients, and travel anywhere in the world.
 
 Corporate Package.  
 A simple package suited to corporate clients or if you just need a quick update. Whether you've just landed a new job, a promotion or it's time for your annual update this package will be a good basis for your personalised headshot session. This package also makes a great basis for social media and profile photos, and again, it can be personalised to your specific needs. It includes two finished headshots. This session usually takes between half and one hour, but there is no time limit and I will stick with you until we get some great photographs of you.
