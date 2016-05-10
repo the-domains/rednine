@@ -1,0 +1,28 @@
+name: RedNine
+favicon: null
+layout_spectrum: 0.2451501563191414
+typography_spectrum: 0.05563341802917421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8651528155896813
+  lightness: 0.540380687918514
+  saturation: 0.19486335152760148
+  rhythmicContrast: 0.3795643295161426
+purpose: []
